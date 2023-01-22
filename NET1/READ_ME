@@ -1,0 +1,4 @@
+This Neural Network was written in Python3, and requires all 4 files to be in one
+folder to run.
+The 2LayerNeuralNetwork.py is the main code. You only need to call it to run in your Terminal Command Shell
+or your IDE of choice.
